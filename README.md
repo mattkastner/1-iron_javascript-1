@@ -1,8 +1,8 @@
 # LEVEL - IRON
 
-# Javascript #1
+## Javascript #1
 
-## Summary
+### Summary
 
 * Have an oral understanding of: const/let/var. 
 * Memorize the main 7 data types.
